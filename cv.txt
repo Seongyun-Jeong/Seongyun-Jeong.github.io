@@ -56,13 +56,13 @@ Awards &
 Honors
 
 1. IITP President’s Award (2nd Prize), ICT Challenge 2025
-Seongyun Jeong, Minseong Choi, Jium Min
+Seongyun Jeong, Minseong Choi, Jiun Min
 UNIST S2LAB Team, Project : AHA-Fuzz
 
 cations Security (CCS) 2025
 
 2. Minister of Science and ICT Award (1st Prize), ICT Challenge 2024
-Jium Min, Dongyun Yu, Seongyun Jeong
+Jiun Min, Dongyeon Yu, Seongyun Jeong
 UNIST S2LAB Team, Project : ERASAN
 
 1
