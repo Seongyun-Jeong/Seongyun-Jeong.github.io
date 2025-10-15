@@ -18,8 +18,8 @@
     {
         "title": "ERASAN: Efficient Rust Address Sanitizer",
         "authors": "Jiun Min*, Dongyeon Yu*, Seongyun Jeong, Dokyung Song, and Yuseok Jeon",
-        "venue": "IEEE Symposium on Security and Privacy 2024 (S&P'24)",
-        "note": "Co-first author (*) • Acceptance rate: 258/1449=17.8%",
+        "venue": "IEEE Symposium on Security and Privacy 2024 (S&P'24), Co-first author (*)",
+        "note": "Acceptance rate: 258/1449=17.8%",
         "links": [
             {
                 "type": "Paper",
