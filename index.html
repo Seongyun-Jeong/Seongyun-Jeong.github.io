@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Your Name] - Academic Website</title>
+    <meta name="description" content="[Your Name] - [Your Title/Position] at [Your Institution]">
+    <meta name="keywords" content="[Your Name], [Your Field], [Your Institution], research, publications">
+    <meta name="author" content="[Your Name]">
+
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="[Your Name] - Academic Website">
+    <meta property="og:description" content="[Your Name] - [Your Title/Position] at [Your Institution]">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://[your-username].github.io">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="[Your Name] - Academic Website">
+    <meta name="twitter:description" content="[Your Name] - [Your Title/Position] at [Your Institution]">
+
+    <link rel="stylesheet" href="styles.css?v=6">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <!-- Header Section -->
+        <header class="header">
+            <div class="profile-section">
+                <img src="images/yun.png" alt="Seongyun Jeong" class="profile-image">
+                <div class="profile-info">
+                    <h1 class="name">Seongyun Jeong</h1>
+                    <p class="title">M.S.–Ph.D. Student</p>
+                    <p class="institution">Korea University</p>
+                    <div class="contact-info">
+                        <p><i class="fas fa-envelope"></i> <a
+                                href="mailto:seongyun@korea.ac.kr">seongyun@korea.ac.kr</a></p>
+                        <p><i class="fas fa-map-marker-alt"></i> Seoul, South Korea</p>
+                        <div class="social-links">
+                            <a href="https://github.com/seongyun-jeong" target="_blank" rel="noopener"><i
+                                    class="fab fa-github"></i></a>
+                            <a href="https://s2-lab.github.io" target="_blank" rel="noopener"><i
+                                    class="fas fa-globe"></i> Lab</a>
+                            <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" target="_blank"
+                                rel="noopener"><i class="fas fa-graduation-cap"></i></a>
+                            <a href="cv.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> CV</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Navigation -->
+        <nav class="navigation">
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#research">Research</a></li>
+                <li><a href="#publications">Publications</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#awards">Awards</a></li>
+                <li><a href="#services">Services</a></li>
+            </ul>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- About Section -->
+            <section id="about" class="section">
+                <h2>About</h2>
+                <div class="content">
+                    <p>I am an M.S.–Ph.D. student (Integrated Program) at Korea University, advised by <a
+                            href="https://www.ysjeon.net/" target="_blank" rel="noopener">Prof. Yuseok Jeon</a>
+                        in the <a href="https://s2-lab.github.io" target="_blank" rel="noopener">Secure
+                            Software Lab (S2 Lab)</a>
+                        research group.
+                        I started my M.S. in Computer Science and Engineering at UNIST and later transferred to Korea
+                        University.</p>
+                </div>
+            </section>
+
+            <!-- Research Section -->
+            <section id="research" class="section">
+                <h2>Research Interests</h2>
+                <div class="content">
+                    <p>I focus on software and system security, especially on automated vulnerability detection through
+                        fuzzing and the implementation of advanced bug sanitization techniques. My research includes
+                        fuzzing for Android hardened applications and compiler-based sanitizer optimization. I am
+                        currently extending these studies to broader system environments.</p>
+                </div>
+            </section>
+
+            <!-- Education Section -->
+            <section id="education" class="section">
+                <h2>Education</h2>
+                <div class="content">
+                    <div class="education-item">
+                        <h3>Korea University</h3>
+                        <p class="degree">M.S.–Ph.D. Student (Integrated Program)</p>
+                        <p class="advisor">Advisor: Prof. Yuseok Jeon</p>
+                        <p class="location">• Sep. 2025 - Present</p>
+                    </div>
+                    <div class="education-item">
+                        <h3>UNIST</h3>
+                        <p class="degree">M.S. in Computer Science and Engineering</p>
+                        <p class="advisor">Advisor: Prof. Yuseok Jeon</p>
+                        <p class="location">• Aug. 2023 - Aug. 2025</p>
+                    </div>
+                    <div class="education-item">
+                        <h3>UNIST</h3>
+                        <p class="degree">B.E. in Computer Science and Engineering</p>
+                        <p class="gpa">GPA: 4.0/4.3 (Major), Magna Cum Laude</p>
+                        <p class="location">• Mar. 2020 - Aug. 2023</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Publications Section -->
+            <section id="publications" class="section">
+                <h2>Publications</h2>
+                <div class="content">
+                    <div id="publications-list">
+                        <!-- Publications will be loaded dynamically from publications.json -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- Awards Section -->
+            <section id="awards" class="section">
+                <h2>Awards & Honors</h2>
+                <div class="content">
+                    <div class="award-item">
+                        <h3>IITP President's Award (2nd Prize), ICT Challenge 2025</h3>
+                        <div class="award-team">Seongyun Jeong, Minseong Choi, Jium Min</div>
+                        <div class="award-project">UNIST S2LAB Team, Project: AHA-Fuzz</div>
+                    </div>
+                    <div class="award-item">
+                        <h3>Minister of Science and ICT Award (1st Prize), ICT Challenge 2024</h3>
+                        <div class="award-team">Jium Min, Dongyun Yu, Seongyun Jeong</div>
+                        <div class="award-project">UNIST S2LAB Team, Project: ERASAN</div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Academic Services Section -->
+            <section id="services" class="section">
+                <h2>Academic Services</h2>
+                <div class="content">
+                    <div class="service-item">
+                        <h3>Artifact Evaluation Committee (AEC)</h3>
+                        <p class="service-venue">ACM Conference on Computer and Communications Security (CCS) 2025</p>
+                    </div>
+                </div>
+            </section>
+
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>&copy; 2024 Seongyun Jeong. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+
+</html>

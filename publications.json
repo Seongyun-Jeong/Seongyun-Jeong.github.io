@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Intent-aware Fuzzing for Android Hardened Application",
+        "authors": "Seongyun Jeong, Minseong Choi, Haehyun Cho, Seokwoo Choi, Hyungsub Kim, and Yuseok Jeon",
+        "venue": "ACM Conference on Computer and Communications Security 2025 (CCS'25)",
+        "note": "Acceptance rate: 316/2278=13.9%",
+        "links": [
+            {
+                "type": "Paper",
+                "url": "https://s2-lab.github.io/assets/AHAFuzz_CCS25.pdf"
+            },
+            {
+                "type": "Code",
+                "url": "https://github.com/S2-Lab/AHA-fuzz/"
+            }
+        ]
+    },
+    {
+        "title": "ERASAN: Efficient Rust Address Sanitizer",
+        "authors": "Jiun Min*, Dongyeon Yu*, Seongyun Jeong, Dokyung Song, and Yuseok Jeon",
+        "venue": "IEEE Symposium on Security and Privacy 2024 (S&P'24)",
+        "note": "Co-first author (*) • Acceptance rate: 258/1449=17.8%",
+        "links": [
+            {
+                "type": "Paper",
+                "url": "https://s2-lab.github.io/assets/erasan_S&P_2024.pdf"
+            }
+        ]
+    }
+]

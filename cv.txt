@@ -1,0 +1,70 @@
+SEONGYUN JEONG PH.D. STUDENT
+
+EMail : seongyun@korea.ac.kr
+Web : https://s2-lab.github.io
+
+RESEARCH
+INTERESTS
+
+I focus on software and system security, especially on automated vulnerability detection
+through fuzzing and the implementation of advanced bug sanitization techniques. My
+research includes fuzzing for hardened Android applications and compiler-based sanitizer
+optimization. I am currently extending these studies to broader system environments.
+
+Education
+
+Korea University
+
+Seoul, South Korea
+Sep. 2025 -Present
+
+M.S.–Ph.D. Student (Integrated Program)
+• Advisor: Prof. Yuseok Jeon
+
+UNIST
+M.S. in Computer Science and Engineering
+• Advisor: Prof. Yuseok Jeon
+
+UNIST
+B.E. in Computer Science and Engineering
+• GPA: 4.0/4.3 (Major), Magna Cum Laude
+
+Publications
+
+Ulsan, South Korea
+Aug. 2023 - Aug. 2025
+
+Ulsan, South Korea
+Mar. 2020 - Aug. 2023
+
+1. Intent-aware Fuzzing for Android Hardened Application
+Seongyun Jeong, Minseong Choi, Haehyun Cho, Seokwoo Choi, Hyungsub Kim, and
+Yuseok Jeon
+ACM Conference on Computer and Communications Security 2025 (CCS’25)
+(acceptance rate: 316/2278=13.9%)
+2. ERASAN: Efficient Rust Address Sanitizer
+Jiun Min*, Dongyeon Yu*, Seongyun Jeong, Dokyung Song, and Yuseok Jeon
+IEEE Symposium on Security and Privacy 2024 (S&P’24) (*: co-first author)
+(acceptance rate: 258/1449=17.8%)
+
+Academic
+Services
+
+Artifact Evaluation Committee (AEC): ACM Conference on Computer and Communi-
+
+Awards &
+Honors
+
+1. IITP President’s Award (2nd Prize), ICT Challenge 2025
+Seongyun Jeong, Minseong Choi, Jium Min
+UNIST S2LAB Team, Project : AHA-Fuzz
+
+cations Security (CCS) 2025
+
+2. Minister of Science and ICT Award (1st Prize), ICT Challenge 2024
+Jium Min, Dongyun Yu, Seongyun Jeong
+UNIST S2LAB Team, Project : ERASAN
+
+1
+
+
