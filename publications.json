@@ -10,6 +10,10 @@
                 "url": "https://s2-lab.github.io/assets/AHAFuzz_CCS25.pdf"
             },
             {
+                "type": "Slide",
+                "url": "https://s2-lab.github.io/assets/AHAFuzz_CCS25_slide.pdf"
+            },
+            {
                 "type": "Code",
                 "url": "https://github.com/S2-Lab/AHA-fuzz/"
             }
