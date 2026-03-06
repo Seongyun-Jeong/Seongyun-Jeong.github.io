@@ -28,6 +28,14 @@
             {
                 "type": "Paper",
                 "url": "https://s2-lab.github.io/assets/erasan_S&P_2024.pdf"
+            },
+            {
+                "type": "Slide",
+                "url": "https://s2-lab.github.io/assets/ERASan_S&P24.pdf"
+            },
+            {
+                "type": "Code",
+                "url": "https://github.com/S2-Lab/ERASan"
             }
         ]
     }
