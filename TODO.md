@@ -1,0 +1,2 @@
+- Add a simple "Found Bugs" note/section.
+- Mention that one bug found by AHAFuzz received CVE-2025-4090: https://nvd.nist.gov/vuln/detail/cve-2025-4090
